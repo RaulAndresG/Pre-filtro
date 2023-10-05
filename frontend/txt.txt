@@ -1,0 +1,819 @@
+
+
+        "super_duke_r_1.jpg",
+
+        "$oid": "65130ee5ec6a0291cb8ab6f7"
+      ,
+      "marca": "Aprilia",
+      "modelo": "Tuono V4 1100",
+      "cilindraje": 1077,
+      "anio": 2021,
+      "precio": 16000,
+      "tipo_motor": "V4",
+      "descripcion": "Una moto naked con herencia de competición.",
+      "imagenes": [
+        "tuono_v4_1100_1.jpg",
+        "tuono_v4_1100_2.jpg"
+      ],
+      "comentarios": []
+
+,{
+  "_id": {
+    "$oid": "651323aaec6a0291cb8ab729"
+  },
+  "nombre": "Botas de Moto",
+  "descripcion": "Botas de alta calidad con protección para tobillos y espinillas.",
+  "precio": 150,
+  "modelo_moto_compatible": [
+    {
+      "_id": {
+        "$oid": "65130ee5ec6a0291cb8ab6f2"
+      },
+      "marca": "Honda",
+      "modelo": "CBR1000RR",
+      "cilindraje": 999,
+      "anio": 2021,
+      "precio": 17500,
+      "tipo_motor": "Inline-four",
+      "descripcion": "Una superbike líder en el mercado.",
+      "imagenes": [
+        "cbr1000rr_1.jpg",
+        "cbr1000rr_2.jpg"
+      ],
+      "comentarios": []
+    },
+    {
+      "_id": {
+        "$oid": "65130ee5ec6a0291cb8ab6f3"
+      },
+      "marca": "Suzuki",
+      "modelo": "Hayabusa",
+      "cilindraje": 1340,
+      "anio": 2021,
+      "precio": 18500,
+      "tipo_motor": "Inline-four",
+      "descripcion": "Una moto legendaria de alta velocidad.",
+      "imagenes": [
+        "hayabusa_1.jpg",
+        "hayabusa_2.jpg"
+      ],
+      "comentarios": []
+    }
+  ]
+}]
+
+
+  "comentario": "La Tuono V4 1100 es una moto excepcional. Pura diversión.",
+  "calificacion": 4
+},{
+  "_id": {
+    "$oid": "6513227bec6a0291cb8ab721"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f6"
+    },
+    "marca": "KTM",
+    "modelo": "1290 Super Duke R",
+    "cilindraje": 1301,
+    "anio": 2021,
+    "precio": 19500,
+    "tipo_motor": "V-Twin",
+    "descripcion": "Una moto naked con rendimiento extremo.",
+    "imagenes": [
+      "super_duke_r_1.jpg",
+      "super_duke_r_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "usuario": "usuario9",
+  "comentario": "La 1290 Super Duke R es una bestia en la carretera. Exhilarante.",
+  "calificacion": 5
+},{
+  "_id": {
+    "$oid": "6513227bec6a0291cb8ab71e"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f3"
+    },
+    "marca": "Suzuki",
+    "modelo": "Hayabusa",
+    "cilindraje": 1340,
+    "anio": 2021,
+    "precio": 18500,
+    "tipo_motor": "Inline-four",
+    "descripcion": "Una moto legendaria de alta velocidad.",
+    "imagenes": [
+      "hayabusa_1.jpg",
+      "hayabusa_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "usuario": "usuario6",
+  "comentario": "La Hayabusa es una moto legendaria. Velocidad extrema.",
+  "calificacion": 4
+},{
+  "_id": {
+    "$oid": "6513227bec6a0291cb8ab71d"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f2"
+    },
+    "marca": "Honda",
+    "modelo": "CBR1000RR",
+    "cilindraje": 999,
+    "anio": 2021,
+    "precio": 17500,
+    "tipo_motor": "Inline-four",
+    "descripcion": "Una superbike líder en el mercado.",
+    "imagenes": [
+      "cbr1000rr_1.jpg",
+      "cbr1000rr_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "usuario": "usuario5",
+  "comentario": "La CBR1000RR es una máquina de carreras en la calle. ¡Increíble!",
+  "calificacion": 5
+},{
+  "_id": {
+    "$oid": "6513227bec6a0291cb8ab71f"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f4"
+    },
+    "marca": "Triumph",
+    "modelo": "Speed Triple RS",
+    "cilindraje": 1050,
+    "anio": 2021,
+    "precio": 15500,
+    "tipo_motor": "Inline-three",
+    "descripcion": "Una moto naked con carácter y rendimiento.",
+    "imagenes": [
+      "speed_triple_rs_1.jpg",
+      "speed_triple_rs_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "usuario": "usuario7",
+  "comentario": "La Speed Triple RS tiene un manejo excepcional. Una maravilla.",
+  "calificacion": 5
+},{
+  "_id": {
+    "$oid": "6513227bec6a0291cb8ab71c"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f1"
+    },
+    "marca": "Kawasaki",
+    "modelo": "Ninja ZX-14R",
+    "cilindraje": 1441,
+    "anio": 2021,
+    "precio": 16000,
+    "tipo_motor": "Inline-four",
+    "descripcion": "Una moto deportiva de alto rendimiento.",
+    "imagenes": [
+      "ninja_zx_14r_1.jpg",
+      "ninja_zx_14r_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "usuario": "usuario4",
+  "comentario": "La Ninja ZX-14R es una bestia en la carretera. Rápida y poderosa.",
+  "calificacion": 4
+},{
+  "_id": {
+    "$oid": "6513227bec6a0291cb8ab720"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f5"
+    },
+    "marca": "Yamaha",
+    "modelo": "MT-09",
+    "cilindraje": 889,
+    "anio": 2021,
+    "precio": 12000,
+    "tipo_motor": "Inline-three",
+    "descripcion": "Una moto naked versátil y emocionante.",
+    "imagenes": [
+      "mt_09_1.jpg",
+      "mt_09_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "usuario": "usuario8",
+  "comentario": "La MT-09 ofrece una gran relación calidad-precio. Me encanta.",
+  "calificacion": 4
+}]
+///////////////////////////////
+[{
+  "_id": {
+    "$oid": "65131c22ec6a0291cb8ab705"
+  },
+  "modelo_moto": null,
+  "potencia": 92,
+  "torque": 160,
+  "peso_seco": 372,
+  "altura_asiento": 69,
+  "tipo_chasis": "Doble cuna de acero",
+  "suspension_delantera": "Horquillas telescópicas",
+  "suspension_trasera": "Amortiguadores",
+  "frenos_delanteros": "Doble disco",
+  "frenos_traseros": "Disco",
+  "neumaticos": "Michelin Scorcher 31",
+  "capacidad_tanque": 22.7,
+  "aceleracion_0_100": 4.3
+},{
+  "_id": {
+    "$oid": "65131c22ec6a0291cb8ab706"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6ef"
+    },
+    "marca": "Ducati",
+    "modelo": "Monster 821",
+    "cilindraje": 821,
+    "anio": 2021,
+    "precio": 14000,
+    "tipo_motor": "L-Twin",
+    "descripcion": "Una moto naked deportiva con estilo italiano.",
+    "imagenes": [
+      "monster_821_1.jpg",
+      "monster_821_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "potencia": 112,
+  "torque": 86,
+  "peso_seco": 180,
+  "altura_asiento": 80,
+  "tipo_chasis": "Tubular enrejado de acero",
+  "suspension_delantera": "Horquilla invertida",
+  "suspension_trasera": "Brazo oscilante",
+  "frenos_delanteros": "Doble disco",
+  "frenos_traseros": "Disco",
+  "neumaticos": "Pirelli Diablo Rosso III",
+  "capacidad_tanque": 16,
+  "aceleracion_0_100": 3.7
+},{
+  "_id": {
+    "$oid": "65131c22ec6a0291cb8ab707"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f0"
+    },
+    "marca": "BMW",
+    "modelo": "R 1250 GS",
+    "cilindraje": 1254,
+    "anio": 2021,
+    "precio": 22000,
+    "tipo_motor": "Boxer",
+    "descripcion": "Una moto de aventura con tecnología avanzada.",
+    "imagenes": [
+      "r_1250_gs_1.jpg",
+      "r_1250_gs_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "potencia": 136,
+  "torque": 143,
+  "peso_seco": 249,
+  "altura_asiento": 87,
+  "tipo_chasis": "Tubular de acero",
+  "suspension_delantera": "Horquilla telescópica invertida",
+  "suspension_trasera": "Monobrazo",
+  "frenos_delanteros": "Doble disco",
+  "frenos_traseros": "Disco",
+  "neumaticos": "Metzeler Tourance Next",
+  "capacidad_tanque": 20,
+  "aceleracion_0_100": 3.3
+},{
+  "_id": {
+    "$oid": "65131d4bec6a0291cb8ab708"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f1"
+    },
+    "marca": "Kawasaki",
+    "modelo": "Ninja ZX-14R",
+    "cilindraje": 1441,
+    "anio": 2021,
+    "precio": 16000,
+    "tipo_motor": "Inline-four",
+    "descripcion": "Una moto deportiva de alto rendimiento.",
+    "imagenes": [
+      "ninja_zx_14r_1.jpg",
+      "ninja_zx_14r_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "potencia": 208,
+  "torque": 158,
+  "peso_seco": 269,
+  "altura_asiento": 80,
+  "tipo_chasis": "Tubular de aluminio",
+  "suspension_delantera": "Horquilla invertida",
+  "suspension_trasera": "Amortiguadores",
+  "frenos_delanteros": "Doble disco",
+  "frenos_traseros": "Disco",
+
+  },
+  "potencia": 150,
+  "torque": 117,
+  "peso_seco": 189,
+  "altura_asiento": 83,
+  "tipo_chasis": "Estructura de aluminio",
+  "suspension_delantera": "Horquilla invertida",
+  "suspension_trasera": "Amortiguador",
+  "frenos_delanteros": "Doble disco",
+  "frenos_traseros": "Disco",
+  "neumaticos": "Pirelli Diablo Supercorsa SP",
+  "capacidad_tanque": 15.5,
+  "aceleracion_0_100": 3.2
+},{
+  "_id": {
+    "$oid": "65131d4bec6a0291cb8ab70d"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f6"
+    },
+    "marca": "KTM",
+    "modelo": "1290 Super Duke R",
+    "cilindraje": 1301,
+    "anio": 2021,
+    "precio": 19500,
+    "tipo_motor": "V-Twin",
+    "descripcion": "Una moto naked con rendimiento extremo.",
+    "imagenes": [
+      "super_duke_r_1.jpg",
+      "super_duke_r_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "potencia": 180,
+  "torque": 140,
+  "peso_seco": 189,
+  "altura_asiento": 83,
+  "tipo_chasis": "Chasis multitubular de acero",
+  "suspension_delantera": "Horquilla invertida",
+  "suspension_trasera": "Amortiguador",
+  "frenos_delanteros": "Doble disco",
+  "frenos_traseros": "Disco",
+  "neumaticos": "Pirelli Diablo Rosso III",
+  "capacidad_tanque": 18,
+  "aceleracion_0_100": 2.6
+},{
+  "_id": {
+    "$oid": "65131d4bec6a0291cb8ab70e"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f7"
+    },
+    "marca": "Aprilia",
+    "modelo": "Tuono V4 1100",
+    "cilindraje": 1077,
+    "anio": 2021,
+    "precio": 16000,
+    "tipo_motor": "V4",
+    "descripcion": "Una moto naked con herencia de competición.",
+    "imagenes": [
+      "tuono_v4_1100_1.jpg",
+      "tuono_v4_1100_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "potencia": 175,
+  "torque": 121,
+  "peso_seco": 209,
+  "altura_asiento": 82,
+  "tipo_chasis": "Chasis multitubular de acero",
+  "suspension_delantera": "Horquilla invertida",
+  "suspension_trasera": "Amortiguador",
+  "frenos_delanteros": "Doble disco",
+  "frenos_traseros": "Disco",
+  "neumaticos": "Pirelli Diablo Rosso III",
+  "capacidad_tanque": 18.5,
+  "aceleracion_0_100": 2.9
+}]
+
+///////////////////////////////
+[{
+  "_id": {
+    "$oid": "6513253eec6a0291cb8ab73f"
+  },
+  "nombre": "Rally de Aventura MotoXplorer",
+  "fecha_lugar": "10-15 de septiembre de 2023, Rutas Escénicas de Aventura",
+  "descripcion": "El Rally de Aventura MotoXplorer es una experiencia única para los amantes de las motos de aventura. Explora paisajes impresionantes en esta emocionante travesía.",
+  "marcas_modelos_destacados": [
+    "Triumph",
+    "Aprilia",
+    "KTM",
+    "BMW"
+  ]
+},{
+  "_id": {
+    "$oid": "6513253eec6a0291cb8ab73d"
+  },
+  "nombre": "ExpoMoto 2023",
+  "fecha_lugar": "15-20 de junio de 2023, Centro de Convenciones MotoCity",
+  "descripcion": "La ExpoMoto 2023 es el evento más grande para entusiastas de las motos. Presentará las últimas novedades en el mundo de las motocicletas de alto cilindraje.",
+  "marcas_modelos_destacados": [
+    "Harley-Davidson",
+    "Ducati",
+    "Kawasaki",
+    "BMW"
+  ]
+},{
+  "_id": {
+    "$oid": "6513253eec6a0291cb8ab73e"
+  },
+  "nombre": "MotoGP Grand Prix",
+  "fecha_lugar": "3-5 de agosto de 2023, Circuito Internacional MotoRace",
+  "descripcion": "El MotoGP Grand Prix es una emocionante competencia de motociclismo de alto cilindraje que reúne a los mejores pilotos del mundo en una carrera llena de acción.",
+  "fecha_lugar": "17-19 de febrero de 2024, Centro de Convenciones CustomMoto",
+  "descripcion": "Una exposición de motos personalizadas y modificadas, donde los entusiastas pueden admirar y mostrar sus creaciones únicas.",
+  "marcas_modelos_destacados": [
+    "Custom Builds",
+    "Choppers",
+    "Bobbers",
+    "Rat Bikes"
+  ]
+},{
+  "_id": {
+    "$oid": "65132561ec6a0291cb8ab746"
+  },
+  "nombre": "Competencia de Acrobacias Freestyle",
+  "fecha_lugar": "8-10 de marzo de 2024, Estadio de Deportes Extremos",
+  "descripcion": "Un evento emocionante donde los pilotos de motocross realizan acrobacias extremas en el aire.",
+  "marcas_modelos_destacados": [
+    "Freestyle MX",
+    "Motocross Aéreo",
+    "Stunt Bikes"
+  ]
+},{
+  "_id": {
+    "$oid": "65132561ec6a0291cb8ab740"
+  },
+  "nombre": "MotoFest 2023",
+  "fecha_lugar": "1-3 de julio de 2023, Parque MotoLand",
+  "descripcion": "MotoFest 2023 es un festival de motos lleno de música en vivo, exhibiciones y competencias emocionantes.",
+  "marcas_modelos_destacados": [
+    "Harley-Davidson",
+    "Ducati",
+    "Kawasaki",
+    "Yamaha"
+  ]
+},{
+  "_id": {
+    "$oid": "65132561ec6a0291cb8ab744"
+  },
+  "nombre": "MotoVintage Show",
+  "fecha_lugar": "9-11 de diciembre de 2023, Pabellón del Motor Clásico",
+  "descripcion": "Un espectáculo dedicado a las motos clásicas y vintage, con una impresionante colección de modelos antiguos.",
+  "marcas_modelos_destacados": [
+    "Harley-Davidson",
+    "Triumph",
+    "Norton",
+    "Moto Guzzi"
+  ]
+},{
+  "_id": {
+    "$oid": "65132561ec6a0291cb8ab741"
+  },
+  "nombre": "MotoCross Championship",
+  "fecha_lugar": "12-14 de agosto de 2023, Circuito de MotoXtreme",
+  "descripcion": "El Campeonato de MotoCross es una serie de carreras de motocross de alto octanaje con saltos espectaculares y emocionantes batallas en la pista.",
+  "marcas_modelos_destacados": [
+    "Honda",
+    "Suzuki",
+    "KTM",
+    "Husqvarna"
+  ]
+}]
+////////////////////////////////////////////////
+
+[{
+  "_id": {
+    "$oid": "65131051ec6a0291cb8ab6f9"
+  },
+  "nombre": "Ducati",
+  "pais_origen": "Italia",
+  "anio_fundacion": 1926,
+  "sitio_web": "https://www.ducati.com",
+  "logotipo": "ducati_logo.jpg"
+},{
+  "_id": {
+    "$oid": "65131051ec6a0291cb8ab6fc"
+  },
+  "nombre": "Honda",
+  "pais_origen": "Japón",
+  "anio_fundacion": 1948,
+  "sitio_web": "https://www.honda.com",
+  "logotipo": "honda_logo.jpg"
+},{
+  "_id": {
+    "$oid": "65131051ec6a0291cb8ab6fb"
+  },
+  "nombre": "Kawasaki",
+  "pais_origen": "Japón",
+  "anio_fundacion": 1896,
+  "sitio_web": "https://www.kawasaki.com",
+  "logotipo": "kawasaki_logo.jpg"
+},{
+  "_id": {
+    "$oid": "65131051ec6a0291cb8ab6fe"
+  },
+  "nombre": "Triumph",
+  "pais_origen": "Reino Unido",
+  "anio_fundacion": 1885,
+  "sitio_web": "https://www.triumphmotorcycles.com",
+  "logotipo": "triumph_logo.jpg"
+},{
+  "_id": {
+    "$oid": "65131051ec6a0291cb8ab6f8"
+  },
+  "nombre": "Harley-Davidson",
+  "pais_origen": "Estados Unidos",
+  "anio_fundacion": 1903,
+  "sitio_web": "https://www.harley-davidson.com",
+  "logotipo": "harley_logo.jpg"
+},{
+  "_id": {
+    "$oid": "65131051ec6a0291cb8ab6fd"
+  },
+  "nombre": "Suzuki",
+  "pais_origen": "Japón",
+  "anio_fundacion": 1909,
+o extremo.",
+  "imagenes": [
+    "super_duke_r_1.jpg",
+    "super_duke_r_2.jpg"
+  ],
+  "comentarios": []
+},{
+  "_id": {
+    "$oid": "65130ee5ec6a0291cb8ab6f2"
+  },
+  "marca": "Honda",
+  "modelo": "CBR1000RR",
+  "cilindraje": 999,
+  "anio": 2021,
+  "precio": 17500,
+  "tipo_motor": "Inline-four",
+  "descripcion": "Una superbike líder en el mercado.",
+  "imagenes": [
+    "cbr1000rr_1.jpg",
+    "cbr1000rr_2.jpg"
+  ],
+  "comentarios": []
+},{
+  "_id": {
+    "$oid": "65130ee5ec6a0291cb8ab6ee"
+  },
+  "marca": "Harley-Davidson",
+  "modelo": "Road King",
+  "cilindraje": 1746,
+  "anio": 2021,
+  "precio": 28000,
+  "tipo_motor": "V-Twin",
+  "descripcion": "Una moto cruiser clásica y cómoda.",
+  "imagenes": [
+    "road_king_1.jpg",
+    "road_king_2.jpg"
+  ],
+  "comentarios": []
+},{
+  "_id": {
+    "$oid": "65130ee5ec6a0291cb8ab6f5"
+  },
+  "marca": "Yamaha",
+  "modelo": "MT-09",
+  "cilindraje": 889,
+  "anio": 2021,
+  "precio": 12000,
+  "tipo_motor": "Inline-three",
+  "descripcion": "Una moto naked versátil y emocionante.",
+  "imagenes": [
+    "mt_09_1.jpg",
+    "mt_09_2.jpg"
+  ],
+  "comentarios": []
+},{
+  "_id": {
+    "$oid": "65130ee5ec6a0291cb8ab6f7"
+  },
+  "marca": "Aprilia",
+  "modelo": "Tuono V4 1100",
+  "cilindraje": 1077,
+  "anio": 2021,
+  "precio": 16000,
+  "tipo_motor": "V4",
+  "descripcion": "Una moto naked con herencia de competición.",
+  "imagenes": [
+    "tuono_v4_1100_1.jpg",
+    "tuono_v4_1100_2.jpg"
+  ],
+  "comentarios": []
+},{
+
+    "$oid": "65130ee5ec6a0291cb8ab6f0"
+  },
+  "marca": "BMW",
+  "modelo": "R 1250 GS",
+  "cilindraje": 1254,
+  "anio": 2021,
+  "precio": 22000,
+  "tipo_motor": "Boxer",
+  "descripcion": "Una moto de aventura con tecnología avanzada.",
+  "imagenes": [
+    "r_1250_gs_1.jpg",
+    "r_1250_gs_2.jpg"
+  ],
+  "comentarios": []
+},{
+  "_id": {
+    "$oid": "65130ee5ec6a0291cb8ab6f1"
+  },
+  "marca": "Kawasaki",
+  "modelo": "Ninja ZX-14R",
+  "cilindraje": 1441,
+  "anio": 2021,
+  "precio": 16000,
+  "tipo_motor": "Inline-four",
+  "descripcion": "Una moto deportiva de alto rendimiento.",
+  "imagenes": [
+    "ninja_zx_14r_1.jpg",
+    "ninja_zx_14r_2.jpg"
+  ],
+  "comentarios": []
+}]
+///////////////////
+
+
+
+
+
+
+
+
+
+[{
+  "_id": {
+    "$oid": "65132439ec6a0291cb8ab72e"
+  },
+  "nombre": "MotoCare Servicios II",
+  "marca_moto_atienden": [
+    "Harley-Davidson",
+    "Ducati"
+  ],
+  "direccion": "Avenida Moto 456, Ciudad Moto, Estado",
+  "numero_telefono": "+123-987-6543",
+  "horario_atencion": "Lunes a Viernes: 10:00 AM - 7:00 PM, Sábados: 9:00 AM - 2:00 PM"
+},{
+  "_id": {
+    "$oid": "65132439ec6a0291cb8ab731"
+  },
+  "nombre": "MotoFix Service Center",
+  "marca_moto_atienden": [
+    "BMW",
+    "KTM"
+  ],
+  "direccion": "Calle de los Moteros, Villa Moto, Estado",
+  "numero_telefono": "+789-456-0123",
+  "horario_atencion": "Lunes a Sábado: 8:30 AM - 6:00 PM, Domingo: Cerrado"
+},{
+  "_id": {
+    "$oid": "65132439ec6a0291cb8ab730"
+
+  },
+  "nombre": "MotoPro Experts",
+  "marca_moto_atienden": [
+    "Aprilia",
+    "MV Agusta"
+  ],
+  "direccion": "Avenida Motocare, Ciudad Moto, Estado",
+  "numero_telefono": "+123-789-4560",
+  "horario_atencion": "Lunes a Viernes: 9:30 AM - 7:00 PM, Sábados: 10:00 AM - 4:00 PM"
+}]
+/////////&///
+
+
+
+},{
+  "_id": {
+    "$oid": "65132079ec6a0291cb8ab711"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f0"
+    },
+    "marca": "BMW",
+    "modelo": "R 1250 GS",
+    "cilindraje": 1254,
+    "anio": 2021,
+    "precio": 22000,
+    "tipo_motor": "Boxer",
+    "descripcion": "Una moto de aventura con tecnología avanzada.",
+    "imagenes": [
+      "r_1250_gs_1.jpg",
+      "r_1250_gs_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "anio_venta": 2022,
+  "cantidad_vendida": 40,
+  "precio_promedio_venta": 22000
+},{
+  "_id": {
+    "$oid": "651320a0ec6a0291cb8ab713"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f2"
+    },
+    "marca": "Honda",
+    "modelo": "CBR1000RR",
+    "cilindraje": 999,
+    "anio": 2021,
+    "precio": 17500,
+    "tipo_motor": "Inline-four",
+    "descripcion": "Una superbike líder en el mercado.",
+    "imagenes": [
+      "cbr1000rr_1.jpg",
+      "cbr1000rr_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "anio_venta": 2022,
+  "cantidad_vendida": 20,
+  "precio_promedio_venta": 18500
+},{
+  "_id": {
+    "$oid": "651320a0ec6a0291cb8ab712"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f1"
+    },
+    "marca": "Kawasaki",
+    "modelo": "Ninja ZX-14R",
+    "cilindraje": 1441,
+    "anio": 2021,
+    "precio": 16000,
+    "tipo_motor": "Inline-four",
+    "descripcion": "Una moto deportiva de alto rendimiento.",
+    "imagenes": [
+      "ninja_zx_14r_1.jpg",
+      "ninja_zx_14r_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "anio_venta": 2022,
+  "cantidad_vendida": 25,
+  "precio_promedio_venta": 24000
+},{
+  "_id": {
+    "$oid": "651320a0ec6a0291cb8ab714"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f3"
+    },
+    "marca": "Suzuki",
+    "modelo": "Hayabusa",
+    "cilindraje": 1340,
+    "anio": 2021,
+    "precio": 18500,
+    "tipo_motor": "Inline-four",
+    "descripcion": "Una moto legendaria de alta velocidad.",
+    "imagenes": [
+      "hayabusa_1.jpg",
+      "hayabusa_2.jpg"
+    ],
+    "comentarios": []
+  },
+  "anio_venta": 2022,
+  "cantidad_vendida": 15,
+  "precio_promedio_venta": 21500
+},{
+  "_id": {
+    "$oid": "651320cbec6a0291cb8ab716"
+  },
+  "modelo_moto": {
+    "_id": {
+      "$oid": "65130ee5ec6a0291cb8ab6f5"
+    },
+    "marca": "Yamaha",
+    "modelo": "MT-09",
+    "cilindraje": 889,
+    "anio": 2021,
